@@ -1,5 +1,12 @@
 [
   {
+    "version": "vx.x.x",
+    "title": "vx.x.x",
+    "aliases": [
+      "latest"
+    ]
+  },
+  {
     "version": "master",
     "title": "master",
     "aliases": []
